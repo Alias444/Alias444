@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on learing C++!
+- 🔭 I’m currently working on C++ Development!
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on Discord
 - 💬 Ask me about Anything
