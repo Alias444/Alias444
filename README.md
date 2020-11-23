@@ -1,5 +1,5 @@
 ### Xzory
-### I'm A Developer/Learing Dev!
+### I'm A Developer/Learning Dev!
 
 Here are some ideas to get you started:
 
