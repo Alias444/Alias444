@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Discord
 - 💬 Ask me about Anything
 - 📫 How to reach me: YouTube, Discord
+- Hoping To Learn: Java, Python, HTML/CSS
 -->
 
 <code></code> <img height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"> 
