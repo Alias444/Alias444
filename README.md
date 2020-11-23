@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: YouTube, Discord
 -->
 
-<code></code> <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"> 
-<code></code> <img height="40" src="https://cdn.auth0.com/blog/native-csharp/logo.png">
+<code></code> <img height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"> 
+<code></code> <img height="80" src="https://cdn.auth0.com/blog/native-csharp/logo.png">
