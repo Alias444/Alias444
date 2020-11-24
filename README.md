@@ -1,7 +1,6 @@
 ### Xzory
 ### I'm A Developer/Learning Dev!
-
-Here are some ideas to get you started:
+### Here Are Some Stuff About Me!
 
 - 🔭 I’m currently working on C++ Development!
 - 🌱 I’m currently learning C++
