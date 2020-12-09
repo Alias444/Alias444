@@ -10,7 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xzory&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Xzory's stats" />
 </a>
 <br><br>
-<a href="https://github.com/Xzory?tab=repositories%22%3E
+<a href="https://github.com/JoJoJw?tab=repositories%22%3E
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xzory&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt='Xzory's favorite languages" />
 </a>
 <br>
