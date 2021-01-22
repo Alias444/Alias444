@@ -1,6 +1,6 @@
 ### Alias444
 ## Learning Programmer / Developer
-# Languages / Skills
+# 3 Main Languages
 
 <code><img height="40" src="https://media.discordapp.net/attachments/786121094964314154/786682173792059392/31b2ii8hchi31-removebg-preview.png"></code>
 <code><img height="40" src="https://media.discordapp.net/attachments/786121094964314154/786682525748953098/1200px-C_Sharp_logo.svg.png?width=627&height=683"></code>
