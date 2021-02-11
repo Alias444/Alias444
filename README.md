@@ -1,7 +1,7 @@
 ### Alias444
 ## Learning Programmer / Developer
 
-I am a developer that is experienced in C#, and learning java. I mostly use WPF and Winforms to create applications in C#. 
+I am a developer that is experienced in C#, and learning frontend web development in HTML/CSS. I mostly use WPF and Winforms to create applications in C#. 
 
 
 <a href="https://github.com/Alias444">
