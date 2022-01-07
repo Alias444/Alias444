@@ -1,5 +1,5 @@
-### Alias444
-## Learning Programmer / Developer
+### KingAlias
+## Beginner Programmer
 
 I'm a beginner programmer
 
